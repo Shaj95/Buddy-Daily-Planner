@@ -1,5 +1,5 @@
 # Buddy - A Daily Planner Python Project
-This repository contains a Python Project focussed on a creating a basic daily planner application for my university project
+This repository contains a Python Project focussed on creating a basic daily planner application for my university project
 
 # Overview
 
